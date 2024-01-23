@@ -1,0 +1,20 @@
+#num{
+    font-size: 10em;
+    display: block;
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold;
+}
+.container{
+    text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    color: bisque;
+    background-color: rgb(72, 125, 156);
+    border: 1px solid black;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color:  rgb(29, 81, 111);
+}
